@@ -1,0 +1,6 @@
+{
+  "name": "Quick Contact Portal",
+  "description": "A clean, modern static landing page with a direct 1-minute Google Form contact link.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
